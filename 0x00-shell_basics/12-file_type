@@ -1,2 +1,3 @@
 #!/bin/bash
-12-file_type
+type /tmp/iamafile
+
