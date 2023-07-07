@@ -1,2 +1,2 @@
 #!/bin/bash
-chmond -R +x .
+chmond -R +X .
